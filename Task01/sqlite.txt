@@ -1,0 +1,7 @@
+
+
+
+Доступные режимы вывода (команда .mode): ascii box c column count csv html insert jatom jobject json line list markdown off psql qbox quote split table tabs tcl batch tty
+
+
+ Версия SQLite: 3.53.4  
